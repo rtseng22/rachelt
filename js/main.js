@@ -318,6 +318,5 @@
     fixedContentPos: false
   });
 
-
 })(jQuery);
 
