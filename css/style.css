@@ -8133,7 +8133,7 @@ a.text-dark:hover, a.text-dark:focus {
     border-color: #dee2e6; } }
 
 body {
-  font-family: "Gill Sans";
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
   background: #fff;
   font-size: 18px;
   line-height: 1.5;
